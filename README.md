@@ -1,45 +1,55 @@
-# Hi, I'm Nathan Cisz
+# Nathan Cisz da Rocha
 
-**Backend Developer | Java & Python | REST APIs | SQL**
+**Backend Developer | Python • Java • REST APIs • SQL**
 
----
+Sou Desenvolvedor Backend focado em criar sistemas eficientes, confiáveis e de fácil manutenção.  
+Atualmente, curso Tecnólogo em Análise e Desenvolvimento de Sistemas (conclusão prevista para Agosto de 2025) e atuo como estagiário no Ministério Público de Santa Catarina, desempenhando funções híbridas entre suporte técnico, administração de sistemas e desenvolvimento.
 
-## About Me
-
-I build reliable, efficient backend systems with a focus on solving real problems and optimizing business processes.  
-Recently graduated in Systems Analysis and Development, I have practical experience with Java (Spring Boot), Python, RESTful APIs, and SQL.
-
-- 🛠️ **Examples of what I do:**  
-    - Automated the synchronization of 1,000+ process IDs between database and application using Python, reducing a week of manual work to one day.
-    - Developed and maintained REST APIs for data integration and process automation.
-    - Focus on code quality, performance, and clear documentation.
-
-- 🧑‍💻 **Technical interests:**  
-    - Backend development
-    - Process automation
-    - Systems integration
-    - Database optimization
-
-## Skills
-
-- Java (Spring Boot)
-- Python
-- RESTful APIs
-- SQL
-- Automation & Scripting
-
-## Professional Principles
-
-- Solve real-world problems with code.
-- Prioritize efficiency and reliability.
-- Communicate clearly and objectively.
-- Prefer facts over hype.
-
-## Contact
-
-- [LinkedIn](https://www.linkedin.com/in/nathancisz)  
-- [GitHub](https://github.com/NathanCisz)
+Tenho interesse secundário em Cibersegurança e um objetivo de longo prazo de obter experiência profissional internacional, com especial interesse no Japão.
 
 ---
 
-> “Good code solves problems, not just passes tests.”
+## 🔧 Competências Técnicas
+
+- **Linguagens:** Python, Java, JavaScript/TypeScript, SQL
+- **Backend:** Spring Boot (Java), Node.js, APIs RESTful
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB (básico)
+- **DevOps e Ferramentas:** Git, CI/CD (Vercel, GitHub Actions), Docker (básico)
+- **Conceitos:** POO, SOLID
+
+---
+
+## 📌 Experiência
+
+**Estagiário de Informática**  
+*Ministério Público de Santa Catarina* | Jul/2024 – Jul/2025  
+- Manutenção de sistemas web legados (JavaScript/jQuery).  
+- Administração de chamados via ITSM OTRS.  
+- **Destaque:** Automação em Python para sincronizar mais de 1.000 IDs entre banco de dados e aplicação, reduzindo o tempo da tarefa de 1 semana para 1 dia, eliminando gargalos.
+
+---
+
+## 🚀 Projetos de Destaque
+
+- **API de Gerenciamento (Java & Spring Boot)**  
+  API RESTful com integração ao PostgreSQL, arquitetura limpa, aplicação de princípios SOLID e autenticação JWT.
+
+- **Aplicação Web Full Stack (Node.js & Next.js)**  
+  Projeto de estudo combinando backend em Node.js e frontend em React/Next.js, explorando SSR e integração com banco de dados.
+
+- **Automação de Sincronização de IDs (Python)**  
+  Script que automatizou a sincronização de mais de 1.000 registros entre base de dados e aplicação, reduzindo o tempo de execução de uma semana para um dia.
+
+---
+
+## 🎓 Formação Académica
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade Municipal de Palhoça *(Agosto/2025)*
+- Estudo contínuo em Cibersegurança
+- Idiomas:
+  - **Português:** Nativo
+  - **Inglês:** Profissional (leitura avançada, conversação e escrita intermediária)
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
