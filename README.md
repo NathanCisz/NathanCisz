@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Nathan Cisz
 
-<!--
-**NathanCisz/NathanCisz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | Java & Python | REST APIs | SQL**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I build reliable, efficient backend systems with a focus on solving real problems and optimizing business processes.  
+Recently graduated in Systems Analysis and Development, I have practical experience with Java (Spring Boot), Python, RESTful APIs, and SQL.
+
+- 🛠️ **Examples of what I do:**  
+    - Automated the synchronization of 1,000+ process IDs between database and application using Python, reducing a week of manual work to one day.
+    - Developed and maintained REST APIs for data integration and process automation.
+    - Focus on code quality, performance, and clear documentation.
+
+- 🧑‍💻 **Technical interests:**  
+    - Backend development
+    - Process automation
+    - Systems integration
+    - Database optimization
+
+## Skills
+
+- Java (Spring Boot)
+- Python
+- RESTful APIs
+- SQL
+- Automation & Scripting
+
+## Professional Principles
+
+- Solve real-world problems with code.
+- Prioritize efficiency and reliability.
+- Communicate clearly and objectively.
+- Prefer facts over hype.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/nathancisz)  
+- [GitHub](https://github.com/NathanCisz)
+
+---
+
+> “Good code solves problems, not just passes tests.”
