@@ -3,9 +3,9 @@
 **Backend Developer | Python • Java • REST APIs • SQL**
 
 Sou Desenvolvedor Backend focado em criar sistemas eficientes, confiáveis e de fácil manutenção.  
-Atualmente, curso Tecnólogo em Análise e Desenvolvimento de Sistemas (conclusão prevista para Agosto de 2025) e atuo como estagiário no Ministério Público de Santa Catarina, desempenhando funções híbridas entre suporte técnico, administração de sistemas e desenvolvimento.
+Graduado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Faculdade Municipal de Palhoça (2025), tenho experiência prática no desenvolvimento de APIs, automações e manutenção de sistemas em ambientes reais.
 
-Tenho interesse secundário em Cibersegurança e um objetivo de longo prazo de obter experiência profissional internacional, com especial interesse no Japão.
+Tenho interesse secundário em Cibersegurança e um objetivo de longo prazo de obter experiência profissional internacional.
 
 ---
 
@@ -42,8 +42,8 @@ Tenho interesse secundário em Cibersegurança e um objetivo de longo prazo de o
 
 ---
 
-## 🎓 Formação Académica
-- Tecnólogo em Análise e Desenvolvimento de Sistemas — Faculdade Municipal de Palhoça *(Agosto/2025)*
+## 🎓 Formação Acadêmica
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Faculdade Municipal de Palhoça *(2025)*
 - Estudo contínuo em Cibersegurança
 - Idiomas:
   - **Português:** Nativo
@@ -52,4 +52,4 @@ Tenho interesse secundário em Cibersegurança e um objetivo de longo prazo de o
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/nathancisz/)
